@@ -1,5 +1,3 @@
-# Enterprise-Architecture-Patterns
-
 # Enterprise Design Patterns: Applying the Patterns from the "Catalog of Patterns of Enterprise Application Architecture"
 In the world of enterprise application architecture, design patterns play a crucial role in structuring systems in a maintainable, scalable, and efficient way. The Catalog of Patterns of Enterprise Application Architecture presents a wide array of patterns that can be applied to various enterprise scenarios. Below, we’ll walk through some of the most important patterns and demonstrate how they can be implemented in Python code
 
